@@ -192,8 +192,7 @@ nav {
             flex: 0 0 100%;
         }
         @include breakpoint (xs) {
-            padding: 100px 0 84px;
-            text-align: center;
+            padding: 27px 0 84px;
             background-size: 153px 130px;
             background-position: 100% bottom;
         }
