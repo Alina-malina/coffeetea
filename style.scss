@@ -66,22 +66,6 @@ nav {
             margin-right: 25px;
         }
     }
-    &-bar {
-        position: absolute;
-        background-color: $accent;
-        top: 0;
-        right: 100%;
-        height: 100vh;
-        width: 250px;
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        transition: position 2.9s;
-        -webkit-transition: position 2.9s;
-        -moz-transition: position 2.9s;
-        -ms-transition: position 2.9s;
-        -o-transition: position 2.9s;
-    }
 }
 .cart {
     background-image: url(../img/cart-bg.svg);
@@ -212,13 +196,6 @@ nav {
             background-size: 153px 130px;
             background-position: 100% bottom;
         }
-    }
-    &-coffee {
-        background-image: url("../img/coffee.png");
-    }
-    &-tea {
-        background-image: url("../img/tea.png");
-        
     }
     &-title {
         font-size: 24px;
