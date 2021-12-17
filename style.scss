@@ -193,13 +193,13 @@ nav {
 }
 .collection {
     display: flex;
+    text-align: center;
     justify-content: space-between;
     @include breakpoint (lg) {
         flex-wrap: wrap;
     }
     &-item {
         flex: 0 0 50%;
-        text-align: center;
         padding: 43px 0 63px;
         background-size: 190px 171px; 
         background-repeat: no-repeat;
