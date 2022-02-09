@@ -316,12 +316,16 @@ body {
   }
 }
 
-.collection-man {
-  background-image: url("../img/man.png");
+.collection-coffee {
+  background-image: url("../img/1.png");
 }
 
-.collection-woman {
-  background-image: url("../img/woman.png");
+.collection-tea {
+  background-image: url("../img/2.png");
+}
+
+.collection-sweet {
+  background-image: url("../img/3.png");
 }
 
 .collection-title {
