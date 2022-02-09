@@ -151,6 +151,9 @@ body {
 
 .btn-xs {
   padding: 5px 28px;
+  border-radius: 15px;
+  color: #FFFFFF;
+  
 }
 
 .btn-center {
